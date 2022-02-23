@@ -1,7 +1,6 @@
 - 👋   Hi, I’m @gdziwoki
 - 👀   I’m interested in all things kubernetes
 - 🌱   I’m currently learning golang
-- 💞️   I’m looking to collaborate on projects related to monitoring and testing
 - 📫   How to reach me - gdzcorp.pl
 
 <!---
